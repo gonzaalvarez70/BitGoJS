@@ -1,5 +1,8 @@
 # BitGoJS Release Notes
 
+## next
+* Fix bug in fanout endpoint that causes `maxNumInputsToUse` to be ignored.
+
 ## 11.1.1 (05-12-2020)
 
 ### Other Changes
